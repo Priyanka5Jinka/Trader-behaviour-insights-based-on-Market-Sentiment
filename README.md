@@ -1,7 +1,6 @@
 # Trader-sentiment-analysis-based-on-Market-Sentiment
 Data-driven analysis of crypto trader behaviour using sentiment data (Fear & Greed Index).
 
-# 📊 Trader Behavior Analysis Based on Market Sentiment
 
 This project explores how crypto traders behave under different market sentiments — such as Fear, Greed, Extreme Fear, and Extreme Greed — using two datasets: historical trading data and the Bitcoin Fear & Greed Index. The goal is to uncover how emotions influence trading performance, direction, and decision-making patterns.
 
