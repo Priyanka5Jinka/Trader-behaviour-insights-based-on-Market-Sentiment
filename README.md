@@ -1,4 +1,4 @@
-# Trader-sentiment-analysis-based-on-Market-Sentiment
+# Trader-behaviour-insights-based-on-Market-Sentiment
 Data-driven analysis of crypto trader behaviour using sentiment data (Fear & Greed Index).
 
 
