@@ -50,5 +50,5 @@ This project explores how crypto traders behave under different market sentiment
 
 ---
 
-Feel free to fork, clone, or build upon this project for research or portfolio purposes.
+Feel free to fork or build upon this project for research or portfolio purposes.
 
